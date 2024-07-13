@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color:#9B9A96 ;
+     
+    
+}
+
+.navbar {
+    background-color: #000000  !important;
+}
+
+.card {
+    
+    background-color: #FFFFFF;
+    padding: 15px;
+    margin: 15px; 
+}
+
+h1 {
+    color: #2c3e50;
+}
+
+
+.btn-primary{
+    background-color: #152DC7;
+    border-color: #2980b9;
+}
+
+
+.container {
+    background-color: rgba(255, 255, 255, 0.8); 
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #226AC6   ; 
+}
+
+.navbar-light .navbar-brand {
+    color: #226AC6  ; 
+}
+
+

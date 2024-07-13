@@ -1,0 +1,52 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background: #333;
+    color: #fff;
+    padding: 1rem 0;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+}
+
+.about-section, .team-section, .contact-section {
+    padding: 2rem;
+    background: #92a8d1;
+    margin: 1rem;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(66, 66, 245 );
+}
+
+.about-section h2, .team-section h2, .contact-section h2 {
+    margin-top: 0;
+}
+
+.team-section {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.team-member {
+    text-align: center;
+    margin: 1rem;
+}
+
+
+footer {
+    background: #333;
+    color: #fff;
+    text-align: center;
+    padding: 3px;
+    position: absolute;
+    width:100%;
+    bottom:5;
+}
